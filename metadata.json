@@ -1,0 +1,5 @@
+{
+  "name": "FinTrack AI",
+  "description": "AI-powered personal finance assistant with transaction tracking, budgeting, and Gemini-driven financial insights.",
+  "requestFramePermissions": []
+}
